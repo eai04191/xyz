@@ -1,0 +1,8 @@
+name: xyz
+version: 1.0.0
+author: Eai
+main: net.mizle.xyz.Main
+commands:
+    xyz:
+        description: post xyz position command.
+        usage: '/xyz : 現在座標をチャットに送信します'
